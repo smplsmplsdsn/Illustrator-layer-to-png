@@ -1,4 +1,4 @@
 # Illustrator-layer-to-png
 イラストレーターでレイヤーごとにPNGで書き出す
 
-https://www.simplesimplesdesign.com/web/application/illustorator/script_png/
+[https://www.simplesimplesdesign.com/web/application/illustorator/script_png/](https://www.simplesimples.com/web/application/illustorator/script_png/)
